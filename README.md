@@ -5,7 +5,7 @@ Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 co
 
 ### How to build a setup application
 
-In order to build the setup application for DLSS Enabler, you need to install InnoSetup software first. The most optimal version is 6.2.0 (nothing below, nothing above - mainly due to the craziness of some AVs that raise the false positives randomly).
+In order to build the setup application for DLSS Enabler, you need to install InnoSetup software first ( https://jrsoftware.org/isdl.php ). The most optimal version is 6.2.0 (nothing below, nothing above - mainly due to the craziness of some AVs that raise the false positives randomly).
 
 After installing the InnoSetup software, double click "DLSS enabler.iss" file and edit its contents (such as build version, etc) in InnoSetup Editor.
 
